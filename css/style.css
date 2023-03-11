@@ -125,7 +125,7 @@ body {
 }
 
 .row-3 .reset {
-    width: 47%;
+    width: 48%;
     box-sizing: border-box;
     background-color: var(--del-reset-btn-bg-color);
     color: var(--text-color);
@@ -133,7 +133,7 @@ body {
 }
 
 .row-3 .equal {
-    width: 47%;
+    width: 48%;
     margin: 0 0;
     box-sizing: border-box;
     background-color: var(--equal-btn-bg-color);

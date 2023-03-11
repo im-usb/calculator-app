@@ -8,22 +8,6 @@
     }
 
     .row-3 button {
-        font-size: 1rem;
-    }
-
-    .row-3 .delete {
-        font-size: 1rem;
-    }
-
-    .row-3 .num {
-        margin: 0 4% 0 0;
-    }
-    
-    .row-3 .decimal {
-        margin: 0 4% 0 0;
-    }
-
-    .row-3 .divide {
-        margin: 0 4% 0 0;
+        width: 21.49%;
     }
 }
