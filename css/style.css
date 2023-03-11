@@ -49,8 +49,10 @@ main {
 }
 
 .row-1  .theme-slider label{
-    margin: auto 10px;
+    /* margin: auto 10px; */
     font-size: 1rem;
+    display: flex;
+    justify-content:space-between;
 }
 
 .row-1  .theme-slider div p{
